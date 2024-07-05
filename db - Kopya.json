@@ -1,0 +1,22 @@
+{
+  "students": [
+    "Ali",
+    "Veli"
+  ],
+  "classes": [
+    "Fizik",
+    "Kimya",
+    "Geometri"
+  ],
+  "scores": {
+    "Ali": {
+      "Fizik": 50,
+      "Geometri": 50
+    },
+    "Veli": {
+      "Fizik": 80,
+      "Kimya": 2,
+      "Geometri": 25
+    }
+  }
+}

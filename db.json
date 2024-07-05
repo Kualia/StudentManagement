@@ -1,0 +1,51 @@
+{
+  "students": [
+    "Ali",
+    "Veli",
+    "Hasan",
+    "Ahmet",
+    "Zeynep",
+    "Elif",
+    "Hakan",
+    "Deniz",
+    "Kaan",
+    "Derya"
+  ],
+  "classes": [
+    "Edebiyat",
+    "Anatomi",
+    "Matematik",
+    "Fizik",
+    "Biyoloji",
+    "Fizyoloji"
+  ],
+  "scores": {
+    "Ali": {
+      "Edebiyat": 80
+    },
+    "Veli": {
+      "Edebiyat": 85
+    },
+    "Hasan": {
+      "Edebiyat": 100,
+      "Biyoloji": 80
+    },
+    "Ahmet": {
+      "Edebiyat": 50,
+      "Anatomi": 80,
+      "Biyoloji": 55
+    },
+    "Zeynep": {
+    },
+    "Elif": {
+    },
+    "Hakan": {
+    },
+    "Deniz": {
+    },
+    "Kaan": {
+    },
+    "Derya": {
+    }
+  }
+}

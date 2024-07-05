@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.389,=C:\Users\deniz\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,C:\Users\deniz\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\deniz\OneDrive\Masaüstü\StudentManagement\StudentManagement.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,C:\Users\deniz\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\deniz\OneDrive\Masaüstü\StudentManagement\Project4.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,C:\Users\deniz\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\deniz\OneDrive\Masaüstü\StudentManagement\StudentManagement.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=C:\Users\deniz\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="StudentManagement.pas"/>
+    <File Path="StudentManagement.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
